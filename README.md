@@ -13,7 +13,7 @@ C Piscine C 03:       100 %
 
 C Piscine C 04:       70  %
 
-C Piscine C 05:       70  %
+C Piscine C 05:       85  %
 
 C Piscine Rush 00:    116 %
 
